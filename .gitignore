@@ -1,0 +1,99 @@
+# ==========================================
+# Unity generated folders
+# ==========================================
+
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+Logs/
+
+# ==========================================
+# Unity Asset Store / Plastic SCM
+# ==========================================
+
+/Assets/AssetStoreTools/
+/Assets/Plugins/PlasticSCM/
+
+# ==========================================
+# Visual Studio / Rider / VS Code
+# ==========================================
+
+.vs/
+.vscode/
+.idea/
+.consulo/
+.gradle/
+
+# ==========================================
+# Visual Studio / IDE generated files
+# ==========================================
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==========================================
+# Build / export folders
+# ==========================================
+
+ExportedObj/
+
+# ==========================================
+# Crash / diagnostic files
+# ==========================================
+
+sysinfo.txt
+crashlytics-build.properties
+
+# ==========================================
+# Unity build files
+# ==========================================
+
+*.apk
+*.aab
+*.app
+
+# ==========================================
+# Addressables generated data
+# ==========================================
+
+/Assets/AddressableAssetsData/*/*.bin*
+
+# ==========================================
+# Unity temporary files
+# ==========================================
+
+~UnityDirMonSyncFile~
+
+# ==========================================
+# Operating system files
+# ==========================================
+
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Logs and temporary files
+# ==========================================
+
+*.log
+*.bak
+*.swp
+*.swo
